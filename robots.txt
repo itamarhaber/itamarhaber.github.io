@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://itamarhaber.github.io/sitemap.xml 

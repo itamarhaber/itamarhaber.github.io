@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://itamarhaber.github.io/sitemap.xml 
+Sitemap: git@github.com:itamarhaber/itamarhaber.github.io/sitemap.xml 

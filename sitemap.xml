@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/03/pimp-my-redis/</loc>
+    <lastmod>2015-05-03T00:22:10+03:00</lastmod>
+  </url>
+  <url>
     <loc>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/01/why/</loc>
     <lastmod>2015-05-01T18:47:20+03:00</lastmod>
   </url>
@@ -21,5 +25,11 @@
   </url>
   <url>
     <loc>git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/other/</loc>
+  </url>
+  <url>
+    <loc>git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/redis/</loc>
+  </url>
+  <url>
+    <loc>git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/creative/</loc>
   </url>
 </urlset>

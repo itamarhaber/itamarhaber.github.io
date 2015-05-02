@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[disturbed irrationality]]></title>
-  <link href="git@github.com:itamarhaber/itamarhaber.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: redis | disturbed irrationality]]></title>
+  <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/redis/atom.xml" rel="self"/>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/"/>
   <updated>2015-05-03T01:01:59+03:00</updated>
   <id>git@github.com:itamarhaber/itamarhaber.github.io/</id>
@@ -23,16 +23,7 @@
 <!--more-->
 
 
-<p><a href="https://twitter.com/itamarhaber/status/591017658604216321"><img src="git@github.com:itamarhaber/itamarhaber.github.io/images/2015/04/pimp_my_redis.jpg" title="&#34;pimp my redis&#34;" alt="&#34;pimp my redis&#34;"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[why?]]></title>
-    <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/01/why/"/>
-    <updated>2015-05-01T18:47:20+03:00</updated>
-    <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/01/why</id>
-    <content type="html"><![CDATA[<p>because it&rsquo;s about time.</p>
+<p><a href="https://twitter.com/itamarhaber/status/591017658604216321"><img src="/images/2015/04/pimp_my_redis.jpg" title="&ldquo;pimp my redis&rdquo;" ></a></p>
 ]]></content>
   </entry>
   

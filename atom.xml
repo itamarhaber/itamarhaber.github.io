@@ -4,7 +4,7 @@
   <title><![CDATA[disturbed irrationality]]></title>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/atom.xml" rel="self"/>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/"/>
-  <updated>2015-05-03T01:01:59+03:00</updated>
+  <updated>2015-05-03T10:53:40+03:00</updated>
   <id>git@github.com:itamarhaber/itamarhaber.github.io/</id>
   <author>
     <name><![CDATA[Itamar Haber]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[synchronicity]]></title>
+    <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/03/synchronicity/"/>
+    <updated>2015-05-03T10:44:13+03:00</updated>
+    <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/03/synchronicity</id>
+    <content type="html"><![CDATA[<p>Synchronicity is key: data, community, work, family and i. Constant sync towards consistency.</p>
+
+<p>I sync therefore i am - synco ergo sum.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pimp my redis]]></title>

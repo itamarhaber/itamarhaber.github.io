@@ -4,7 +4,7 @@
   <title><![CDATA[Category: creative | disturbed irrationality]]></title>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/creative/atom.xml" rel="self"/>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/"/>
-  <updated>2015-05-04T00:56:33+03:00</updated>
+  <updated>2015-05-05T01:16:49+03:00</updated>
   <id>git@github.com:itamarhaber/itamarhaber.github.io/</id>
   <author>
     <name><![CDATA[Itamar Haber]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[diluted]]></title>
+    <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/05/diluted/"/>
+    <updated>2015-05-05T01:11:37+03:00</updated>
+    <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/05/diluted</id>
+    <content type="html"><![CDATA[<!--more-->
+
+
+<p><img src="/images/2015/05/diluted.png" title="&ldquo;diluted&rdquo;" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[pimp my redis]]></title>

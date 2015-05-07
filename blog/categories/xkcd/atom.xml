@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: xkcd | disturbed irrationality]]></title>
+  <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/categories/xkcd/atom.xml" rel="self"/>
+  <link href="git@github.com:itamarhaber/itamarhaber.github.io/"/>
+  <updated>2015-05-07T16:56:53+03:00</updated>
+  <id>git@github.com:itamarhaber/itamarhaber.github.io/</id>
+  <author>
+    <name><![CDATA[Itamar Haber]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[haber's benchmarking theorem]]></title>
+    <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/07/habers-benchmarking-theorem/"/>
+    <updated>2015-05-07T01:42:24+03:00</updated>
+    <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/07/habers-benchmarking-theorem</id>
+    <content type="html"><![CDATA[<p><img src="/images/2015/05/habers_benchmarking_theorem.png" title="&ldquo;haber&rsquo;s benchmarking theorem&rdquo;" ></p>
+]]></content>
+  </entry>
+  
+</feed>

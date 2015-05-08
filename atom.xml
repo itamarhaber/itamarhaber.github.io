@@ -4,7 +4,7 @@
   <title><![CDATA[disturbed irrationality]]></title>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/atom.xml" rel="self"/>
   <link href="git@github.com:itamarhaber/itamarhaber.github.io/"/>
-  <updated>2015-05-08T21:52:44+03:00</updated>
+  <updated>2015-05-09T00:10:30+03:00</updated>
   <id>git@github.com:itamarhaber/itamarhaber.github.io/</id>
   <author>
     <name><![CDATA[Itamar Haber]]></name>
@@ -18,7 +18,14 @@
     <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/07/habers-benchmarking-theorem/"/>
     <updated>2015-05-07T01:42:24+03:00</updated>
     <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/07/habers-benchmarking-theorem</id>
-    <content type="html"><![CDATA[<p><img src="git@github.com:itamarhaber/itamarhaber.github.io/images/2015/05/habers_benchmarking_theorem.png" title="&#34;haber's benchmarking theorem&#34;" alt="&#34;haber's benchmarking theorem&#34;"></p>
+    <content type="html"><![CDATA[<p><img src="git@github.com:itamarhaber/itamarhaber.github.io/images/2015/05/habers_benchmarking_theorem.png" title="&#34;haber's benchmarking theorem&#34;" alt="&#34;haber's benchmarking theorem&#34;">
+Python source code:</p>
+
+<!--more-->
+
+
+<script src="https://gist.github.com/itamarhaber/2dad94e3bdd2980bce73.js"></script>
+
 ]]></content>
   </entry>
   
@@ -27,10 +34,7 @@
     <link href="git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/05/diluted/"/>
     <updated>2015-05-05T01:11:37+03:00</updated>
     <id>git@github.com:itamarhaber/itamarhaber.github.io/blog/2015/05/05/diluted</id>
-    <content type="html"><![CDATA[<!--more-->
-
-
-<p><img src="git@github.com:itamarhaber/itamarhaber.github.io/images/2015/05/diluted.png" title="&#34;diluted&#34;" alt="&#34;diluted&#34;"></p>
+    <content type="html"><![CDATA[<p><img src="git@github.com:itamarhaber/itamarhaber.github.io/images/2015/05/diluted.png" title="&#34;diluted&#34;" alt="&#34;diluted&#34;"></p>
 ]]></content>
   </entry>
   
